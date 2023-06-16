@@ -25,6 +25,6 @@
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust.svg" align="center" heigth="50" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60">
 
