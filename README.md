@@ -1,6 +1,7 @@
 ### Olá, tudo bem ?
 ### Me chamo Abraão.
-### Sou estudante, minhas habilidades são voltadas a desenvolvimento e Segurança da Informação.
+### Sou estudante, minhas habilidades são voltadas a Desenvolvimento e Segurança da Informação.
+### Bolsista do Projeto ReuseTech ♻️ - 2021-2023
 
 ----
 
