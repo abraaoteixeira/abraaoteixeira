@@ -1,9 +1,4 @@
-### Olá, tudo bem ?
-### Me chamo Abraão.
-### Curso Tecnologia em Redes de Computadores, pelo IFC Campus Brusque. Tenho como foco me tornar Analista de Segurança, minhas habilidades são voltadas a Programação, Segurança de Redes e Sistemas.
 
-### Monitor III - Prefeitura de Brusque | CMID - 2024/atual 
-### Bolsista e Voluntario do Projeto ReuseTech - 2021-2023 ♻️ @reusetech.ofc
 
 ----
 
