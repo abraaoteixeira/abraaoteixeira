@@ -1,5 +1,0 @@
-python-dateutil
-requests
-lxml
-playwright
-pillow
