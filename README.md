@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090e,50:0086FF,100:00AEC7&height=210&section=header&text=Abraão%20Teixeira&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%7C%20Network%20Engineering%20%7C%20Linux%20Kernel%20%7C%20eBPF%20%7C%20Kubernetes&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Abraão Teixeira - Cloud | Network Engineering | Linux Kernel | eBPF | Kubernetes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090e,50:0086FF,100:00AEC7&height=210&section=header&text=Abraão%20Teixeira&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Network%20Engineering%20%7C%20Linux%20Kernel%20%7C%20eBPF%20%7C%20Kubernetes&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Abraão Teixeira - Cloud Network Engineering | Linux Kernel | eBPF | Kubernetes" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@ engineer:
   name: "Abraão Teixeira da Silva"
   location: "Brusque, SC - Brazil"
   education: "Computer Networks @ Instituto Federal Catarinense (IFC)"
-  role: "Cloud & Network Engineering | Linux Kernel / eBPF / Kubernetes Specialist"
+  role: "Cloud Network Engineering | Linux Kernel / eBPF / Kubernetes Specialist"
   focus_domains:
     - "Cloud & High-Performance Network Engineering (XDP / TC / BGP)"
     - "Linux Kernel Hardening, Tuning & eBPF Observability (Falco / Cilium)"
