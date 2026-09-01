@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090e,50:0086FF,100:00AEC7&height=210&section=header&text=Abraão%20Teixeira&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Native%20Security%20%7C%20eBPF%20%7C%20Kubernetes&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Abraão Teixeira - Cloud Native Security | eBPF | Kubernetes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090e,50:0086FF,100:00AEC7&height=210&section=header&text=Abraão%20Teixeira&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Network%20Engineering%20%7C%20Linux%20Kernel%20%7C%20eBPF%20%7C%20Kubernetes&descSize=17&descAlignY=70&descAlign=50" width="100%" alt="Abraão Teixeira - Network Engineering | Linux Kernel | eBPF | Kubernetes" />
 </div>
 
 <div align="center">
@@ -22,13 +22,12 @@ engineer:
   name: "Abraão Teixeira da Silva"
   location: "Brusque, SC - Brazil"
   education: "Computer Networks @ Instituto Federal Catarinense (IFC)"
-  role: "Cloud Native & Infrastructure Security Specialist"
+  role: "Network Engineering & Linux Kernel / eBPF / Kubernetes Specialist"
   focus_domains:
-    - "eBPF Runtime Security & Kernel Tracing (Falco / Cilium)"
-    - "Kubernetes Cluster Architecture & Multi-Tenant Hardening"
-    - "Enterprise Virtualization & Hybrid Cloud (VMware vSphere 8 / NSX)"
-    - "Next-Gen Network Security & Zero Trust Perimeter (Fortinet)"
-    - "Linux Kernel Tuning & High-Throughput Packet Processing"
+    - "High-Performance Network Engineering & Packet Processing (XDP / TC)"
+    - "Linux Kernel Hardening, Tuning & eBPF Observability (Falco / Cilium)"
+    - "Production Kubernetes Cluster Architecture & Zero Trust Mesh"
+    - "Enterprise Infrastructure & Virtualization (Fortinet / VMware vSphere)"
   mantra: "In eBPF and Kernel We Trust, All Others Must Bring Zero Trust Proof."
 ```
 
