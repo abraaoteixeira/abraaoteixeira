@@ -1,6 +1,6 @@
 ﻿<div align="center">
   <a href="https://github.com/abraaoteixeira">
-    <img src="banner.jpg" width="100%" alt="Abraão Teixeira - Cloud Native Infrastructure & Security" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+    <img src="banner.jpg" width="100%" alt="Abraão Teixeira - Cloud Native Infrastructure & Security" />
   </a>
 </div>
 
