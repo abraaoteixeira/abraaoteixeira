@@ -4,13 +4,13 @@
 
 <div align="center">
   <p>
-    <a href="https://www.cncf.io/"><img src="https://img.shields.io/badge/CNCF-Landscape%20Specialist-0086FF?style=for-the-badge&logo=cncf&logoColor=white" /></a>
-    <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-Production%20K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-    <a href="https://falco.org/"><img src="https://img.shields.io/badge/Falco-eBPF%20Runtime%20Sec-00AEC7?style=for-the-badge&logo=falco&logoColor=white" /></a>
-    <a href="https://cilium.io/"><img src="https://img.shields.io/badge/Cilium-eBPF%20Networking-F5A623?style=for-the-badge&logo=cilium&logoColor=white" /></a>
-    <a href="https://www.fortinet.com/"><img src="https://img.shields.io/badge/Fortinet-Zero%20Trust%20Sec-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" /></a>
-    <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-vSphere%20%7C%20NSX-0095D3?style=for-the-badge&logo=vmware&logoColor=white" /></a>
-    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-Kernel%20%26%20Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+    <a href="https://www.cncf.io/"><img src="https://img.shields.io/badge/CNCF-Landscape-0086FF?style=for-the-badge&logo=cncf&logoColor=white" /></a>
+    <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+    <a href="https://falco.org/"><img src="https://img.shields.io/badge/Falco-eBPF_Security-00AEC7?style=for-the-badge&logo=falco&logoColor=white" /></a>
+    <a href="https://cilium.io/"><img src="https://img.shields.io/badge/Cilium-eBPF_Networking-F5A623?style=for-the-badge&logo=cilium&logoColor=white" /></a>
+    <a href="https://www.fortinet.com/"><img src="https://img.shields.io/badge/Fortinet-Zero_Trust-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" /></a>
+    <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-vSphere_NSX-0095D3?style=for-the-badge&logo=vmware&logoColor=white" /></a>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
   </p>
 </div>
 
@@ -30,6 +30,30 @@ engineer:
     - "Enterprise Infrastructure & Virtualization (Fortinet / VMware vSphere)"
   mantra: "In eBPF and Kernel We Trust, All Others Must Bring Zero Trust Proof."
 ```
+
+---
+
+## Tech Stack & Topics
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux_Kernel-1E1E1E?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/eBPF-1E1E1E?style=flat-square&logo=cilium&logoColor=F5A623" />
+  <img src="https://img.shields.io/badge/Falco-1E1E1E?style=flat-square&logo=falco&logoColor=00AEC7" />
+  <img src="https://img.shields.io/badge/Kubernetes-1E1E1E?style=flat-square&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Cilium-1E1E1E?style=flat-square&logo=cilium&logoColor=F5A623" />
+  <img src="https://img.shields.io/badge/Fortinet-1E1E1E?style=flat-square&logo=fortinet&logoColor=EE3124" />
+  <img src="https://img.shields.io/badge/VMware-1E1E1E?style=flat-square&logo=vmware&logoColor=0095D3" />
+  <img src="https://img.shields.io/badge/Prometheus-1E1E1E?style=flat-square&logo=prometheus&logoColor=E6522C" />
+  <img src="https://img.shields.io/badge/Grafana-1E1E1E?style=flat-square&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/Terraform-1E1E1E?style=flat-square&logo=terraform&logoColor=844FBA" />
+  <img src="https://img.shields.io/badge/Ansible-1E1E1E?style=flat-square&logo=ansible&logoColor=EE0000" />
+  <img src="https://img.shields.io/badge/Helm-1E1E1E?style=flat-square&logo=helm&logoColor=0F1689" />
+  <img src="https://img.shields.io/badge/Go-1E1E1E?style=flat-square&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-1E1E1E?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Bash-1E1E1E?style=flat-square&logo=gnu-bash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Wireshark-1E1E1E?style=flat-square&logo=wireshark&logoColor=1679A7" />
+</div>
 
 ---
 
@@ -86,14 +110,7 @@ Kernel Security:  eBPF JIT Active            · cgroups v2 Loaded · Syscall Aud
 ---
 
 <div align="center">
-  <h3>📬 Conecte-se comigo:</h3>
   <a href="https://www.linkedin.com/in/abraaoteixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abraaoteixeira0101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/abraaoteixeira"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
-<br/>
-
-<p align="center">
-  <sub>⚡ Constantly architecting the future of secure, resilient and high-throughput cloud platforms.</sub>
-</p>
