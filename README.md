@@ -1,44 +1,153 @@
-[![Header](banner.jpg "Header")](https://github.com/abraaoteixeira)
-
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Ah, Olá!
-
-Bem-vindo(a) ao meu perfil!
-
-Eu sou **Abraão Teixeira da Silva**, um **Analyst Infrastructure Cloud Jr** apaixonado por tecnologia e infraestrutura, atualmente cursando Redes de Computadores no Instituto Federal Catarinense (IFC). Sou natural de Brusque, SC.
-
-Meu foco principal está na arquitetura de servidores, virtualização, infraestrutura de redes e soluções em nuvem. Adoro resolver problemas e automatizar processos com scripts!
-
-## >_ Sobre Mim
-
-* **Graduando em Redes de Computadores** — Instituto Federal Catarinense (IFC) *(2024 - 2027)*
-* **Cargo Atual:** Infrastructure & Cloud Analyst Jr
-* **Especialidades:** Administração de Servidores, Redes TCP/IP e Virtualização.
-* **Ferramentas:** Fortinet, VMware, Hyper-V, Zabbix.
-
-## 🛠️ >_ Tecnologias & Ferramentas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fortinet-C8102E?style=for-the-badge&logo=fortinet&logoColor=white"/>
-</div>
-
-## 📊 >_ Estatísticas & Redes Sociais
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=abraaoteixeira&theme=radical&hide_border=true&card_width=850"/>
+﻿<div align="center">
+  <a href="https://github.com/abraaoteixeira">
+    <img src="banner.jpg" width="100%" alt="Abraão Teixeira - Cloud Native Infrastructure & Security" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abraaoteixeira/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abraaoteixeira0101@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <h1>⚡ Abraão Teixeira da Silva</h1>
+  <h3><code>Cloud Native Security & Infrastructure Engineer · IFC</code></h3>
+  <p>
+    <a href="https://www.cncf.io/"><img src="https://img.shields.io/badge/CNCF-Landscape%20Specialist-0086FF?style=for-the-badge&logo=cncf&logoColor=white" /></a>
+    <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-Production%20K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+    <a href="https://falco.org/"><img src="https://img.shields.io/badge/Falco-eBPF%20Runtime%20Sec-00AEC7?style=for-the-badge&logo=falco&logoColor=white" /></a>
+    <a href="https://cilium.io/"><img src="https://img.shields.io/badge/Cilium-eBPF%20Networking-F5A623?style=for-the-badge&logo=cilium&logoColor=white" /></a>
+    <a href="https://www.fortinet.com/"><img src="https://img.shields.io/badge/Fortinet-Zero%20Trust%20Sec-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" /></a>
+    <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-vSphere%20%7C%20NSX-0095D3?style=for-the-badge&logo=vmware&logoColor=white" /></a>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-Kernel%20%26%20Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  </p>
 </div>
+
+---
+
+```yaml
+# ── OPERATIONAL TELEMETRY ───────────────────────────────────────────
+engineer:
+  name: "Abraão Teixeira da Silva"
+  location: "Brusque, SC - Brazil"
+  education: "Computer Networks @ Instituto Federal Catarinense (IFC)"
+  role: "Cloud Native & Infrastructure Security Specialist"
+  focus_domains:
+    - "eBPF Runtime Security & Kernel Tracing (Falco / Cilium)"
+    - "Kubernetes Cluster Architecture & Multi-Tenant Hardening"
+    - "Enterprise Virtualization & Hybrid Cloud (VMware vSphere 8 / NSX)"
+    - "Next-Gen Network Security & Zero Trust Perimeter (Fortinet)"
+    - "Linux Kernel Tuning & High-Throughput Packet Processing"
+  mantra: "In eBPF and Kernel We Trust, All Others Must Bring Zero Trust Proof."
+```
+
+---
+
+## ⚡ Core Engineering Pillars
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Native & Kubernetes (CNCF)
+* **Orquestração:** Kubernetes (Bare-Metal & Cloud), VMware Tanzu (TKG), K3s
+* **eBPF & Networking:** Cilium CNI, Hubble Observability, XDP, eBPF Service Mesh
+* **Observabilidade:** Prometheus, Grafana, OpenTelemetry, CoreDNS
+* **Delivery & IaC:** Helm Charts, Kustomize, Terraform, Ansible
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity & Runtime Defense
+* **Runtime Security:** Falco (Modern eBPF driver, syscall filtering, custom rulesets)
+* **Perímetro & Zero Trust:** Fortinet FortiGate, FortiManager, SD-WAN, IPS/IDS
+* **Hardening & Auditoria:** CIS Benchmarks, NIST 800-53, Linux Kernel Hardening
+* **Container Security:** Trivy Vulnerability Scanner, OPA Gatekeeper, Cosign
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Enterprise Virtualization (VMware)
+* **Hypervisor & Core:** VMware vSphere 7/8, ESXi, vCenter Server
+* **Software-Defined Network:** VMware NSX-T (Microsegmentação, Overlay)
+* **Storage & Resiliência:** vSAN, High Availability (HA), DRS, Fault Tolerance
+* **Híbrido:** Integração vSphere + Kubernetes Container Runtime
+
+</td>
+<td width="50%" valign="top">
+
+### 🐧 Linux Systems & Kernel Engineering
+* **Sistemas:** Debian, Ubuntu Server, Rocky Linux, Red Hat Enterprise Linux (RHEL)
+* **Kernel & Tuning:** `sysctl` TCP/IP stack tuning, `cgroups v2`, namespaces, TC/BPF
+* **Linguagens & Scripts:** Go (Golang), Python, Bash/Shell Script, C/C++, PowerShell
+* **Análise de Redes:** Protocolos TCP/IP, Wireshark, BGP, OSPF, VLANs
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧭 CNCF & Enterprise Landscape Mastered
+
+```
++-------------------------------------------------------------------------------+
+|                        CLOUD NATIVE & CYBER LANDSCAPE                         |
++-------------------------------------------------------------------------------+
+| PROVISIONING  | Terraform · Ansible · Helm · Containerd                       |
+| RUNTIME       | Kubernetes · Cilium (eBPF) · CRI-O · containerd               |
+| SECURITY      | Falco (Graduated) · Fortinet Zero Trust · Trivy · OPA         |
+| NETWORKING    | Cilium Hubble · Envoy Proxy · MetalLB · FortiGate SD-WAN      |
+| OBSERVABILITY | Prometheus · Grafana · OpenTelemetry · Zabbix                 |
+| HYBRID CLOUD  | VMware vSphere · ESXi 8.0 · NSX-T · Tanzu Kubernetes Grid     |
++-------------------------------------------------------------------------------+
+```
+
+---
+
+## 📊 Live Terminal Monitor
+
+```console
+abraao@sec-ops-node01:~$ cilium status --verbose
+    /¯¯\
+ /¯¯\__/¯¯\    Cilium:             OK
+ \__/¯¯\__/    Operator:           OK
+ /¯¯\__/¯¯\    Hubble Relay:       OK
+ \__/¯¯\__/    ClusterMesh:        OK
+    \__/
+
+Deployment        cilium-operator            Desired: 2, Ready: 2/2, Available: 2/2
+DaemonSet         cilium                     Desired: 6, Ready: 6/6, Available: 6/6
+Containers:       cilium-agent               Running: 6
+                  ebpf-runtime-security      Enabled (Falco engine v0.39.0 hooked)
+Perimeter Status: FortiGate Active-Active HA · Zero-Trust Tagging Synced
+Hypervisor:       VMware ESXi 8.0 Cluster    · DRS 100% Balanced · vSAN Healthy
+Kernel Security:  eBPF JIT Active            · cgroups v2 Loaded · Syscall Audit OK
+```
+
+---
+
+## 📈 GitHub Telemetry & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abraaoteixeira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07090e&title_color=0086FF&icon_color=00AEC7&text_color=c0cde8" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraaoteixeira&layout=compact&theme=tokyonight&hide_border=true&bg_color=07090e&title_color=0086FF&text_color=c0cde8" height="155" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=abraaoteixeira&theme=tokyonight&hide_border=true&background=07090e&ring=0086FF&fire=00AEC7&currStreakNum=c0cde8&sideNums=c0cde8&currStreakLabel=0086FF&card_width=850" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📬 Conecte-se comigo:</h3>
+  <a href="https://www.linkedin.com/in/abraaoteixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abraaoteixeira0101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/abraaoteixeira"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<p align="center">
+  <sub>⚡ Constantly architecting the future of secure, resilient and high-throughput cloud platforms.</sub>
+</p>
