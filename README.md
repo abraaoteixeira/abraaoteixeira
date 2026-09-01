@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090e,50:0086FF,100:00AEC7&height=210&section=header&text=Abraão%20Teixeira&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Native%20Security%20%7C%20eBPF%20%7C%20Kubernetes&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Abraão Teixeira - Cloud Native Security | eBPF | Kubernetes" />
 </div>
 
-<br/>
-
 <div align="center">
   <p>
     <a href="https://www.cncf.io/"><img src="https://img.shields.io/badge/CNCF-Landscape%20Specialist-0086FF?style=for-the-badge&logo=cncf&logoColor=white" /></a>
@@ -36,54 +34,7 @@ engineer:
 
 ---
 
-## ⚡ Core Engineering Pillars
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud Native & Kubernetes (CNCF)
-* **Orquestração:** Kubernetes (Bare-Metal & Cloud), VMware Tanzu (TKG), K3s
-* **eBPF & Networking:** Cilium CNI, Hubble Observability, XDP, eBPF Service Mesh
-* **Observabilidade:** Prometheus, Grafana, OpenTelemetry, CoreDNS
-* **Delivery & IaC:** Helm Charts, Kustomize, Terraform, Ansible
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Cybersecurity & Runtime Defense
-* **Runtime Security:** Falco (Modern eBPF driver, syscall filtering, custom rulesets)
-* **Perímetro & Zero Trust:** Fortinet FortiGate, FortiManager, SD-WAN, IPS/IDS
-* **Hardening & Auditoria:** CIS Benchmarks, NIST 800-53, Linux Kernel Hardening
-* **Container Security:** Trivy Vulnerability Scanner, OPA Gatekeeper, Cosign
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Enterprise Virtualization (VMware)
-* **Hypervisor & Core:** VMware vSphere 7/8, ESXi, vCenter Server
-* **Software-Defined Network:** VMware NSX-T (Microsegmentação, Overlay)
-* **Storage & Resiliência:** vSAN, High Availability (HA), DRS, Fault Tolerance
-* **Híbrido:** Integração vSphere + Kubernetes Container Runtime
-
-</td>
-<td width="50%" valign="top">
-
-### 🐧 Linux Systems & Kernel Engineering
-* **Sistemas:** Debian, Ubuntu Server, Rocky Linux, Red Hat Enterprise Linux (RHEL)
-* **Kernel & Tuning:** `sysctl` TCP/IP stack tuning, `cgroups v2`, namespaces, TC/BPF
-* **Linguagens & Scripts:** Go (Golang), Python, Bash/Shell Script, C/C++, PowerShell
-* **Análise de Redes:** Protocolos TCP/IP, Wireshark, BGP, OSPF, VLANs
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧭 CNCF & Enterprise Landscape Mastered
+## CNCF & Enterprise Landscape Mastered
 
 ```
 +-------------------------------------------------------------------------------+
@@ -100,7 +51,7 @@ engineer:
 
 ---
 
-## 📊 Live Terminal Monitor
+## Live Terminal Monitor
 
 ```console
 abraao@sec-ops-node01:~$ cilium status --verbose
@@ -122,7 +73,7 @@ Kernel Security:  eBPF JIT Active            · cgroups v2 Loaded · Syscall Aud
 
 ---
 
-## 📈 GitHub Telemetry & Stats
+## GitHub Telemetry & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abraaoteixeira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07090e&title_color=0086FF&icon_color=00AEC7&text_color=c0cde8" height="155" alt="GitHub Stats" />
