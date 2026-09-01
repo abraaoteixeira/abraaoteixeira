@@ -75,8 +75,8 @@ Kernel Security:  eBPF JIT Active            · cgroups v2 Loaded · Syscall Aud
 ## GitHub Telemetry & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abraaoteixeira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07090e&title_color=0086FF&icon_color=00AEC7&text_color=c0cde8" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abraaoteixeira&layout=compact&theme=tokyonight&hide_border=true&bg_color=07090e&title_color=0086FF&text_color=c0cde8" height="155" alt="Top Languages" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=abraaoteixeira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07090e&title_color=0086FF&icon_color=00AEC7&text_color=c0cde8" height="155" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abraaoteixeira&theme=tokyonight" height="155" alt="Top Languages" />
 </div>
 
 <div align="center">
