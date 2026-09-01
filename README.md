@@ -16,7 +16,7 @@
 
 ---
 
-```yaml
+`yaml
 # ── OPERATIONAL TELEMETRY ───────────────────────────────────────────
 engineer:
   name: "Abraão Teixeira da Silva"
@@ -29,46 +29,7 @@ engineer:
     - "Production Kubernetes Cluster Architecture & Zero Trust Mesh"
     - "Enterprise Infrastructure & Virtualization (Fortinet / VMware vSphere)"
   mantra: "In eBPF and Kernel We Trust, All Others Must Bring Zero Trust Proof."
-```
-
----
-
-## CNCF & Enterprise Landscape Mastered
-
-```
-+-------------------------------------------------------------------------------+
-|                        CLOUD NATIVE & CYBER LANDSCAPE                         |
-+-------------------------------------------------------------------------------+
-| PROVISIONING  | Terraform · Ansible · Helm · Containerd                       |
-| RUNTIME       | Kubernetes · Cilium (eBPF) · CRI-O · containerd               |
-| SECURITY      | Falco (Graduated) · Fortinet Zero Trust · Trivy · OPA         |
-| NETWORKING    | Cilium Hubble · Envoy Proxy · MetalLB · FortiGate SD-WAN      |
-| OBSERVABILITY | Prometheus · Grafana · OpenTelemetry · Zabbix                 |
-| HYBRID CLOUD  | VMware vSphere · ESXi 8.0 · NSX-T · Tanzu Kubernetes Grid     |
-+-------------------------------------------------------------------------------+
-```
-
----
-
-## Live Terminal Monitor
-
-```console
-abraao@sec-ops-node01:~$ cilium status --verbose
-    /¯¯\
- /¯¯\__/¯¯\    Cilium:             OK
- \__/¯¯\__/    Operator:           OK
- /¯¯\__/¯¯\    Hubble Relay:       OK
- \__/¯¯\__/    ClusterMesh:        OK
-    \__/
-
-Deployment        cilium-operator            Desired: 2, Ready: 2/2, Available: 2/2
-DaemonSet         cilium                     Desired: 6, Ready: 6/6, Available: 6/6
-Containers:       cilium-agent               Running: 6
-                  ebpf-runtime-security      Enabled (Falco engine v0.39.0 hooked)
-Perimeter Status: FortiGate Active-Active HA · Zero-Trust Tagging Synced
-Hypervisor:       VMware ESXi 8.0 Cluster    · DRS 100% Balanced · vSAN Healthy
-Kernel Security:  eBPF JIT Active            · cgroups v2 Loaded · Syscall Audit OK
-```
+`
 
 ---
 
@@ -86,7 +47,6 @@ Kernel Security:  eBPF JIT Active            · cgroups v2 Loaded · Syscall Aud
 ---
 
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/abraaoteixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abraaoteixeira0101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/abraaoteixeira"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
