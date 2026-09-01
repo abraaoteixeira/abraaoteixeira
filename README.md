@@ -1,14 +1,10 @@
 ﻿<div align="center">
-  <a href="https://github.com/abraaoteixeira">
-    <img src="banner.jpg" width="100%" alt="Abraão Teixeira - Cloud Native Infrastructure & Security" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090e,50:0086FF,100:00AEC7&height=210&section=header&text=Abraão%20Teixeira&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Native%20Security%20%7C%20eBPF%20%7C%20Kubernetes&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Abraão Teixeira - Cloud Native Security | eBPF | Kubernetes" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h1>⚡ Abraão Teixeira da Silva</h1>
-  <h3><code>Cloud Native Security & Infrastructure Engineer · IFC</code></h3>
   <p>
     <a href="https://www.cncf.io/"><img src="https://img.shields.io/badge/CNCF-Landscape%20Specialist-0086FF?style=for-the-badge&logo=cncf&logoColor=white" /></a>
     <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-Production%20K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
