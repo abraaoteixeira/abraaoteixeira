@@ -38,7 +38,7 @@ engineer:
 
 ## CNCF Contributions & Speaking
 
-- **Cilium (CNCF · Go / Kubernetes):** [`#48275`](https://github.com/cilium/cilium/pull/48275) *(Merged)* · [`#49555`](https://github.com/cilium/cilium/pull/49555) *(Approved / `ready-to-merge`)* · [`#49559`](https://github.com/cilium/cilium/pull/49559) *(In Review)*
+- **Cilium (CNCF · Go / Kubernetes):** [`#48275`](https://github.com/cilium/cilium/pull/48275) *(Merged)* · [`#49555`](https://github.com/cilium/cilium/pull/49555) *(Merged — v1.20 backport)* · [`#49559`](https://github.com/cilium/cilium/pull/49559) *(In Review)*
 - **Falco (CNCF · C++):** [`#3964`](https://github.com/falcosecurity/falco/pull/3964) *(In Review — Prometheus `num_evts` metric)*
 - **GTS 41 — NIC.br (Speaker, Dec 2026):** [**SPECTRE-GRID**](https://gtergts.nic.br/) — Real-Time Intrusion Detection & Mitigation with eBPF/XDP and Spatio-Temporal Deep Learning (`CNN-LSTM-GAT`)
 - **Projects:** [**IAM**](https://github.com/abraaoteixeira/IAM) *(Applied AI Monitoring · IFC)* · [**ItauXPay**](https://github.com/abraaoteixeira/ItauXPay) *(C#/.NET Payments API + PostgreSQL)*
