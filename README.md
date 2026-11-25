@@ -20,7 +20,7 @@
 # ── OPERATIONAL TELEMETRY ───────────────────────────────────────────
 engineer:
   name: "Abraão Teixeira da Silva"
-  location: "Brusque, SC - Brazil (Open to Portugal / EU)"
+  location: "Brazil (Open to Portugal / EU)"
   education: "Computer Networks @ Instituto Federal Catarinense (IFC)"
   role: "Network Engineering & Linux Kernel / eBPF / Kubernetes Specialist"
   open_source: "CNCF Contributor (Cilium / Falco)"
